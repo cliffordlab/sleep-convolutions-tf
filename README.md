@@ -1,4 +1,14 @@
 
+# INSTALL
+---------
+
+## Using pip
+
+Please use pip to install all necessary requirements to run this demo using
+the command
+
+  pip install -r requirements.txt
+
 # ./download.py
 ---------------
 
